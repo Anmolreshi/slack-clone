@@ -1,0 +1,10 @@
+*{
+  margin:0px;
+}
+body {
+  --slack-color:#3f0f40;
+  overflow: hidden;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
